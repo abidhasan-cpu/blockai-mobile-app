@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+.expo-shared/
+.git/
+.gitignore
+.gcloudignore
+**/*.log
+
+# Do NOT ignore dist/ because Dockerfile COPY needs it
+# Do NOT ignore Dockerfile / nginx.conf
+.env
+.env.*
+
