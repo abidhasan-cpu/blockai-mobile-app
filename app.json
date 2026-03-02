@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Block AI",
+    "slug": "block-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B0E11"
+    },
+    "android": {
+      "backgroundColor": "#0B0E11",
+      "package": "com.blockai.app"
+    },
+    "scheme": "blockai",
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
