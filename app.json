@@ -14,7 +14,8 @@
     },
     "scheme": "blockai",
     "plugins": [
-      "expo-asset"
+      "expo-asset",
+      "expo-font"
     ]
   }
 }
